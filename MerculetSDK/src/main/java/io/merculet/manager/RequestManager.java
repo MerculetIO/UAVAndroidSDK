@@ -29,7 +29,6 @@ import io.merculet.util.Util;
 /**
  * @Description
  * @Author lucio
- * @Email xiao.lu@magicwindow.cn
  * @Date 09/03/2018 5:52 PM
  * @Version
  */
