@@ -5,7 +5,7 @@ package io.merculet.config;
  * @date 14/11/5
  */
 public class APIConstant {
-    private static final String TRACK_HOST = "http://behaviour-tracking.liaoyantech.cn";
+    private static final String TRACK_HOST = "";
     public static final String TRACKING_URL = TRACK_HOST + "/api/v1/behaviour/tracking";
     public static final String TOKEN_URL = TRACK_HOST + "/api/v1/security/login";
 }
